@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    size: 20px;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+h1{
+    size: 20px;
+}
+h2{
+    size: 5px;
+    color: #4CAF50;
+}
+.base_color{
+    color: #1eda24;
+}
+.color2{
+    color: #555;
+}
+.break_line{
+    border:none;
+    border-top: 3px solid black;
+    margin: 20px 0;
+    width: 100%;
+}
+.title2{
+    size: 5px;
+    color: rgb(24, 74, 238);
+}
